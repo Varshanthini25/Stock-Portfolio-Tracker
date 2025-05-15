@@ -52,4 +52,4 @@ pip install yfinance
 
 ### OUT PUT:
 
-ithub.com/user-attachments/assets/db22cd72-2335-4cc6-b00![Image](https://g2-84c57f2bf8f1)
+![Image](https://github.com/user-attachments/assets/434b9a4e-2ec6-46ac-9b8e-0b69663cb5df)
