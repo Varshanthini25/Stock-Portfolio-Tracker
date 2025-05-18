@@ -3,7 +3,7 @@
 # Stock Portfolio Tracker (Python + GUI)
 
 A Python-based **Stock Portfolio Tracker** that allows users to **add**, **remove**, **modify**, and **track** the performance of their stock investments. The application uses
-**real-time stock data** from the `yfinance` API and provides an easy-to-use **Graphical User Interface (GUI)** built with Tkinter.
+**real-time stock data** from the yfinance API and provides an easy-to-use **Graphical User Interface (GUI)** built with Tkinter.
 
 
 ## Features:
@@ -11,7 +11,7 @@ A Python-based **Stock Portfolio Tracker** that allows users to **add**, **remov
 -  Add new stocks to your portfolio (with ticker symbol, quantity, and price)
 -  Modify existing stock entries
 -  Remove unwanted stocks from your portfolio
--  View current market price and portfolio value using `yfinance`
+-  View current market price and portfolio value using yfinance
 -  See the total number of shares and overall investment performance
 -  User-friendly interface built with Tkinter
 -  Tracks at least 10 different stocks (e.g., Apple, Tesla, Airtel, Jio, Reliance, etc.)
